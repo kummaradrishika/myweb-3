@@ -1,10 +1,10 @@
 <html>
 <body>
-<h2>WELCOME TO JENKINS WORLD</h2>
+<h1 style="color: gree; font-size: 25px;" align="center">WELCOME TO DEVOPS</h1>
 
-<h2>WELCOME TO  AUTOMATION</h2>
+<h1 style="color: gree; font-size: 100px;" align="center">WELCOME TO DEVOPS</h1>
 
-<h2>Auto Build Kick Off By Jenkins</h2>
+<h1 style="color: gree; font-size: 50x;" align="center">WELCOME TO DEVOPS</h1>
 
 
 </body>
